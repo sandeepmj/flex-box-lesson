@@ -24,13 +24,3 @@
 }
 
 
-.group {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.myboxes {
-    flex-basis: 30%;
-}
-

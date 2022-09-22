@@ -9,44 +9,6 @@
 .boxes {
     border: 1px solid red;
     height: 700px;
-    /* Turns this class into a flex display  */
-    display: flex; 
-
-    /* this is the default: all in one row */
-    /* flex-direction: row; */
-
-    /* shift all row to start at right */
-    /* flex-direction: row-reverse; */
-
-    /* default column so it starts at top */
-    /* flex-direction: column; */
-
-    /* reverses the column so it starts at bottom */
-    /* flex-direction: column-reverse; */
-
-
-    /* Seems to work whether flex-direction: row is on or not */
-    /* flex-wrap: wrap; */
-
-    /* dictates direction of what moves up from the bottom */
-    /* flex-wrap: wrap-reverse; */
-
-    /* centers everything */
-    /* justify-content: center; */
-
-    /* justifies right; remember left is default */
-    /* justify-content: end; */
-
-    /* Puts equal space betwee all the items */
-    /* justify-content: space-between; */
-
-    /* spacing around except at edges*/
-    /* justify-content: space-around; */
-
-    /*most even spacing*/
-    /* justify-content: space-evenly; */
-
-
 
 }
 
